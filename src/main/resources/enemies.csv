@@ -1,0 +1,4 @@
+kind,health,speed,points
+SCOUT,1,140,10
+FIGHTER,2,90,25
+TANK,5,45,60
